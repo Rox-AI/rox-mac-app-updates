@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>ROX</title>
+        <title>Rox</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 06 Nov 2024 22:23:01 +0100</pubDate>
-            <sparkle:version>47</sparkle:version>
+            <pubDate>Thu, 07 Nov 2024 23:32:09 +0100</pubDate>
+            <sparkle:version>49</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/ROX.zip?raw=true" length="6963351" type="application/octet-stream" sparkle:edSignature="PSpOHzi3S/+c061TsyfDX0F7NnSxKww7K+ARLOm9TNBGhen0BAgPKSROEok9rMO9slANF353Wih2dCAIlXWlBw=="/>
+            <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/ROX.zip?raw=true" length="7012130" type="application/octet-stream" sparkle:edSignature="odbQLemmn4Oe1UfE3dNzjpCzviZRkb+0hjfGC2JADvQa7OGBqyIso9W1NXRg6fCVgtCSwcRoslu2nYCWbGHtDQ=="/>
         </item>
     </channel>
 </rss>
