@@ -4,11 +4,11 @@
         <title>Rox</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 14 Nov 2024 22:51:40 +0100</pubDate>
-            <sparkle:version>59</sparkle:version>
+            <pubDate>Sun, 17 Nov 2024 23:56:57 +0100</pubDate>
+            <sparkle:version>62</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/ROX.zip?raw=true" length="5960791" type="application/octet-stream" sparkle:edSignature="H8av57ufCNXkaIheX5o8QW6vmfqRLakbOeNqitHONAhQgvZEXTKeriJ0sAEOHNip2RDx8BXfsj4yYKF4ZASqBw=="/>
+            <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/ROX.zip?raw=true" length="6045622" type="application/octet-stream" sparkle:edSignature="kelU3kvbXKGzNDk8wDqKiMfqrmTBU041X9B2DmLgpZKM+ArP+QJ/Y+IhEmdQcGqrT4PDltjIujMJIIWKtIAyCQ=="/>
         </item>
     </channel>
 </rss>
