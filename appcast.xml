@@ -8,7 +8,7 @@
             <sparkle:version>72</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/Rox.zip?raw=true" length="5956238" type="application/octet-stream" sparkle:edSignature="ounBCkYq+gaT7+yRpAi19mJsI11IoEvL4L+R1lsFiZqPuiLG3Qz5uvmmH8spKaR+YcfmNwpAdoX1N1OGe6KkAQ=="/>
+            <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/ROX.zip?raw=true" length="5956238" type="application/octet-stream" sparkle:edSignature="ounBCkYq+gaT7+yRpAi19mJsI11IoEvL4L+R1lsFiZqPuiLG3Qz5uvmmH8spKaR+YcfmNwpAdoX1N1OGe6KkAQ=="/>
         </item>
     </channel>
 </rss>
