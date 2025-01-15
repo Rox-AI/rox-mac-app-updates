@@ -4,67 +4,11 @@
         <title>Rox</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 09 Jan 2025 20:22:13 +0100</pubDate>
-            <sparkle:version>101</sparkle:version>
+            <pubDate>Thu, 16 Jan 2025 00:13:28 +0100</pubDate>
+            <sparkle:version>102</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/Rox-beta.zip?raw=true" length="6028634" type="application/octet-stream" sparkle:edSignature="HS7vNBZCmVwdaPhedze0qS4BVbVh4nnJZg/PoLruOYT0JRTTZdw1GgrIPtR1CpCHPE4lWQRuDaW6cDVRl+pFAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/Rox101-100.zip?raw=true" sparkle:deltaFrom="100" length="957537" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="nsVTVHZgLaJkfcFp84FBpn3lb/kOfSWPZup5fRCE2geU11fLqWM1TPsy8DQN2Rx0vv27I1b3kRFGL5dYeilaAw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Wed, 08 Jan 2025 23:06:14 +0100</pubDate>
-            <sparkle:version>100</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/Rox.zip?raw=true" length="5975880" type="application/octet-stream" sparkle:edSignature="EgOSM/REo2iDxwk0/mbkwHfAix2gsq3K1/hKuUDc/IXnlnyXEbdPUm62LVXD3UX72+7xcr1PGccXRul/l9RvCQ=="/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Fri, 20 Dec 2024 21:15:18 +0100</pubDate>
-            <sparkle:version>98</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/Rox.zip?raw=true" length="5967465" type="application/octet-stream" sparkle:edSignature="w3dTN0xwAeeULqBTagPtUnmVzgF6ngHA+PnDw4eT0+EJWv5TFSS4Hlwq3gOge3mUs/X1tR6RyvSmILuxABbmCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/Rox98-97.delta?raw=true" sparkle:deltaFrom="97" length="893585" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Qz/uS8Tj+Q0XGCGtcsTy7b/SWvsLhswB1kxSXcnkbVr3LBNRMtKskY5h/hIm1ATHbU0N8NPkZIriiil3rMWGCA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Wed, 18 Dec 2024 23:26:41 +0100</pubDate>
-            <sparkle:version>97</sparkle:version>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/Rox-beta.zip?raw=true" length="6020944" type="application/octet-stream" sparkle:edSignature="AJ5xhuqhLEz1/wdEWHEB8kVbf3d68IMo8Xap79TRx09BMknPjaOB48ZgWy8voldV7b7apHV9z9HVW+vej3wFBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/Rox97-96.delta?raw=true" sparkle:deltaFrom="96" length="949949" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="wXY3rOvkvPv0GIA66DnMoKjEPQ0dYbBzuQm8rWM0W3bj6Yyqe7Sr+3rUfs8TTFivLTIGlW6UYZUxsyreqYMYBQ=="/>
-                <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/Rox97-84.delta?raw=true" sparkle:deltaFrom="84" length="1044520" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="/2kNU6Qx5cbUYBY9YTAkApIN/b4gYQJnZIvtR5Ja/zHVLaxPKMT5KcquH2PYswmXxWhGVBg+TMnpyhZLXzzHBQ=="/>
-                <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/Rox97-83.delta?raw=true" sparkle:deltaFrom="83" length="1155148" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="3F7XSIB/UsYG15EJ34UiqRciEZBOJ/2XYh0U9AzYUhELF4RvlBKeGleb3y5ahWEITWvp5wHSSPWG0LkkF9lWDA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Wed, 18 Dec 2024 23:26:12 +0100</pubDate>
-            <sparkle:version>96</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/Rox.zip?raw=true" length="5967397" type="application/octet-stream" sparkle:edSignature="7e1jdZC8qYAC4GurIMWY9Nf2hJ3CDLdWSETOn7whBgzRZuP7nkWL8atPsNHiTuxT1UkF3XHxx3GQMdiZQZvLAg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/Rox96-84.delta?raw=true" sparkle:deltaFrom="84" length="1042342" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="0jVN8iwj461E8g1s1lniCH9mRz1+5/TVDlVfGkmLl0xvYeKGowsSFLjOE2xDwRLhz0bgmUdKRhqXTzZip9IgBA=="/>
-                <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/Rox96-83.delta?raw=true" sparkle:deltaFrom="83" length="955336" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862784" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="fETIq/SrtazIhedMkGAaci44bWH80+vnpXScU4I9w652Z4OKZFuS/09VIOk0Bnlh5SvLHTWgJ2ueKI0sxBkKCw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Thu, 12 Dec 2024 22:11:46 +0100</pubDate>
-            <sparkle:version>84</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/Rox(84).zip?raw=true" length="6002387" type="application/octet-stream" sparkle:edSignature="jdivevfaERO0iOk4dDc54yfhuHGSPqqAzYeh0W55MoAeEy065AvS+Y/07U1cOy0Daj34diwCKhsQa1AdTOrXCw=="/>
+            <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/Rox.zip?raw=true" length="6017749" type="application/octet-stream" sparkle:edSignature="w7Yd0aWI5TkCzdRc72mbo+rISYYbI/lio4SFTTbVG5Zr/llMzbp6fsZFi1V9MbCZs/dQ314XMzjHczcNPG7xCg=="/>
         </item>
     </channel>
 </rss>
