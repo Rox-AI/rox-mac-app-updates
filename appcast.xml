@@ -4,19 +4,11 @@
         <title>Rox</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sat, 31 May 2025 22:50:42 +0200</pubDate>
-            <sparkle:version>123</sparkle:version>
+            <pubDate>Sun, 08 Jun 2025 12:09:54 +0200</pubDate>
+            <sparkle:version>125</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/Rox.zip?raw=true" length="7631633" type="application/octet-stream" sparkle:edSignature="pE9BfvvmZBGTrduv9q7GhKY6/FtvReymGJweQ1q6vwnTtU7YsfMA8G7mE4xd4Mbvy1HJi5MfqBQp+sHTF+DYBw=="/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Thu, 17 Apr 2025 23:42:08 +0200</pubDate>
-            <sparkle:version>122</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/Rox.zip?raw=true" length="7629017" type="application/octet-stream" sparkle:edSignature="CHa3KxkuYjrq1UNwC1aK/jWx7iUO2dO3mHy5XtfONgvWt9m1xRAXTSSUsOcO664SQM8PqqPG1LHJs853y98SBQ=="/>
+            <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/blob/main/Rox.zip?raw=true" length="7458605" type="application/octet-stream" sparkle:edSignature="tFmNoGf8FwbU+lMWe6PoU9qO9OUv88/S7oyf2eTOm7yhTbI/wCStallvCslzZllxutWlA5s+AlOfvjS4H49fDA=="/>
         </item>
     </channel>
 </rss>
