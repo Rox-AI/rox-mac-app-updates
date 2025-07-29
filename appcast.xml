@@ -3,12 +3,12 @@
     <channel>
         <title>Rox</title>
         <item>
-            <title>0.1.7</title>
+            <title>0.1.8</title>
             <pubDate>Tue, 22 Jul 2025 22:27:10 -0400</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/releases/download/mac-0.1.7/Rox.zip" length="14941709" type="application/octet-stream" sparkle:edSignature="dbmw9jxi3J+NUp3OsrKsHy2eeNwTA/3ASmXIvwNt3xOJiWwomnwj6fKMUD5Lh3zjeltCMlOznQ9YE7vJVIg3Bg=="/>
+            <enclosure url="https://github.com/Rox-AI/rox-mac-app-updates/releases/download/mac-0.1.8/Rox.zip" length="14988583" type="application/octet-stream" sparkle:edSignature="aqAr2jontjhmsKq5BpchafIWASe9PjMYzZPPzjVomXRPgWR0TijuRrnGYLaLmYshXfFiAUEPoYwUa36eZLrtDQ=="/>
         </item>
     </channel>
 </rss>
