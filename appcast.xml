@@ -4,11 +4,11 @@
         <title>Rox</title>
         <item>
             <title>0.3.1</title>
-            <pubDate>Fri, 31 Oct 2025 06:51:29 +0000</pubDate>
+            <pubDate>Sat, 15 Nov 2025 08:23:26 +0000</pubDate>
             <sparkle:version>26</sparkle:version>
             <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://assets.rox.com/Rox.dmg" length="18999797" type="application/octet-stream" sparkle:edSignature="Gj3QiYTJbatYrBrk3TVBz3MtHaN9UzsWwlfrJlOt36vlv6U59+bMu19zXYfsNetwiNoMV4AfeP/6VWWf2/UWDw=="/>
+            <enclosure url="https://assets.rox.com/Rox.dmg" length="19729664" type="application/octet-stream" sparkle:edSignature="RbTEgNQ7t4hQPW7+ppxnVD6oLPTacKe8n2buCSr+rBi0jraizmF4v09c2SWx+2AAAGhvBryBEM+/8IxK2Ja9Aw=="/>
         </item>
     </channel>
 </rss>
