@@ -3,12 +3,12 @@
     <channel>
         <title>Rox</title>
         <item>
-            <title>0.4.3</title>
-            <pubDate>Sat, 14 Feb 2026 05:57:53 +0000</pubDate>
-            <sparkle:version>43</sparkle:version>
-            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+            <title>0.4.5</title>
+            <pubDate>Sat, 14 Feb 2026 21:12:11 +0000</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://assets.rox.com/Rox.dmg" length="20495859" type="application/octet-stream" sparkle:edSignature="Lh4Fr/ehAW+TqLhnITFZAgHg9AyfNQR3Q8lMcBRYmw1JsApokpgIoPhOvbqiw3D4m6Fza6W7qH97mtHe/iCqBA=="/>
+            <enclosure url="https://assets.rox.com/Rox.dmg" length="20520136" type="application/octet-stream" sparkle:edSignature="jioaH9ydjit1W8aU18P2gMBaLpnDrTA3bY5Cw1kmKNVBuXc1hrqiUbT9WRbT5YUo70nqVX5r+FZ1520KK6lAAw=="/>
         </item>
     </channel>
 </rss>
